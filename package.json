@@ -1,0 +1,20 @@
+{
+  "name": "learning-tdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedrobuenoxs/Learning-TDD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedrobuenoxs/Learning-TDD/issues"
+  },
+  "homepage": "https://github.com/pedrobuenoxs/Learning-TDD#readme"
+}
