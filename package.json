@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
+    "dev": "jest --watchAll",
     "prepare": "husky install"
   },
   "repository": {
