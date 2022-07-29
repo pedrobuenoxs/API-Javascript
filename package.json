@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "prepare": "husky install"
   },
   "repository": {
     "type": "git",
@@ -18,6 +19,7 @@
   },
   "homepage": "https://github.com/pedrobuenoxs/Learning-TDD#readme",
   "devDependencies": {
-    "jest": "^28.1.3"
+    "jest": "^28.1.3",
+    "husky": "^8.0.0"
   }
 }
